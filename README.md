@@ -1,6 +1,6 @@
 # Sticker Smash  
 
-StickerSmash is a fun and interactive mobile app built using React Native and Expo, where users can place and interact with digital stickers on their photos.  
+StickerSmash is a fun and interactive mobile app built using React Native and Expo, allowing users to place and interact with digital stickers on their photos. It runs on Android, iOS, and the web。
 
 ## Features
 - Upload and select images from your gallery  
